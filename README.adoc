@@ -1,4 +1,4 @@
-Data work where I built an end-to-end ETL pipeline in AWS and do data visualisation/analytics on Tableau, and Machine Learning on SageMaker Studio. Please view my Tableau dashboards at: https://public.tableau.com/app/profile/huynh.ngoc.tram.nguyen/viz/Frauddataset/Transactionoverviewdashboard
+Data workfloww in which I built an end-to-end ETL pipeline in AWS and performed data visualisation/analytics on Tableau, and Machine Learning on SageMaker Studio. Please view my Tableau dashboards at: https://public.tableau.com/app/profile/huynh.ngoc.tram.nguyen/viz/Frauddataset/Transactionoverviewdashboard
 
 ==== About Dataset
 . Dataset properties
